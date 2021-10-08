@@ -292,6 +292,11 @@
     display: block;
 }
 
+
+.header__navbar{
+    margin-right: 15%;
+}
+
 .header__navbar-list{
     padding-left: 0;
 }
@@ -315,7 +320,7 @@
 .header-btn{
     background-color: var(--purple-color);
     padding: 1px 16px;
-    margin-left: 30px;
+    margin-left: 60px;
 }
 
 /* Header subnav CSS */
